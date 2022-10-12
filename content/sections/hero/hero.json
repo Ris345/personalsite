@@ -1,0 +1,22 @@
+{
+  "intro": "Hey",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "My name is Rishav Acharya.",
+  "subtitle": {
+    "prefix": "I am a self-taught software developer.",
+    "highlight": "",
+    "suffix": ""
+  },
+  "description": "This is a portfolio of mine showcasing my skills as a programmer.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github"],
+    "showIcons": true
+  }
+}

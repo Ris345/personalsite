@@ -1,0 +1,72 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "Front-End ",
+      "title": "Expense Tracker",
+      "description": "This application helps users track their spending, by entering expense type , date, payment method and amount. Users can also add and delete expenses, the app saves  data in local storage. I really enjoyed working on this app, learnt about State, Props and Components. My favorite part was understanding state and being able to manipulate data anywhere, even outside the scope of a function. You can click on the image  for the live version.",
+      "tags": ["React", "Bootstrap"],
+      "image": {
+        "src": "../../images/ExpenseTracker.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://handy-expense-tracker.netlify.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Ris345/Expense-Tracker.github.io"
+        },
+        {
+          "type": "live",
+          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Front-End ",
+      "title": "Star Wars Search App",
+      "description": "This application searches your favorite Star Wars character and delivers information about them -- This project was a good opportunity for me to learn about asynchronous programming , Rest API's , promises and HTTP requests. My favorite part of this project was learning about HTTP requests and being able to make multiple requests without interupting the flow of the application. You can check out the live version of the application by clicking on the image.  ",
+      "tags": ["React", "Axios", "Bootstrap"],
+      "image": {
+        "src": "../../images/StarWars.jpg",
+        "alt": "Extendable Layout",
+        "linkTo": "https://magenta-crisp-21b3fc.netlify.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Ris345/Star-Wars-App-"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Vanilla Javascript",
+      "title": "Calculator",
+      "description": "Calculator is a useful app to have around, I built this application with  Javascript, HTML and CSS. Users can add, subtract, multiply and divide two or more numbers, it has a memory button that saves number temporarlily M+ button increments and the M- decrements the number.I really enjoyed bulding this application -- I learnt about higher-order functions, conditional statments and event-listeners. As a programmer this project helped me develop my logical thinking and understand the use of debugger. My main takeaway from this project was learning to make things work, which as a developer is a crucial skill. You can click on the image for the live version.   ",
+      "tags": ["JavaScript", "HTML", "CSS"],
+      "image": {
+        "src": "../../images/Calculator.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://ris345.github.io/calculator-app.github.io/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Ris345/calculator-app.github.io"
+        },
+        {
+          "type": "live",
+          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+        }
+      ]
+    }
+    
+  ],
+  "button": {
+    "visible":true,
+    "label": "Visit on Github",
+    "url": "https://github.com/Ris345"
+  }
+}
