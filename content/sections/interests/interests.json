@@ -48,6 +48,20 @@
         "src": "../../images/git.png",
         "alt": ""
       }
+    },
+    {
+      "label": "Node",
+      "image": {
+        "src": "../../images/node.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Express",
+      "image": {
+        "src": "../../images/express.png",
+        "alt": ""
+      }
     }
   ],
   "button": {

@@ -2,6 +2,28 @@
   "projects": [
     {
       "visible": true,
+      "category": "Full-Stack ",
+      "title": "Twitter Showcase",
+      "description": " This application displays data from the twitter api, users can search tweets based on keywords and usernames. It also has a feature where it displays random tweets from five different users. The application is written with react and javascript in the front-end and node and express in the back-end. I enjoyed working on this app and learnt about query strings, dependencies, json, proxy, dot env, react router and media keys.  My favorite part of this project was connecting the front-end and the back-end, passing data from front-end to back-end and retrieving the api data on the front-end. Click on the image for the live version.",
+      "tags": ["React", "Node", "Express", "Bootstrap"],
+      "image": {
+        "src": "../../images/Flybird.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://twitterapp-nfle.onrender.com/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Ris345/Twitter-Showcase-App"
+        },
+        {
+          "type": "live",
+          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+        }
+      ]
+    }, 
+    {
+      "visible": true,
       "category": "Front-End ",
       "title": "Expense Tracker",
       "description": "This application helps users track their spending, by entering expense type, date, payment method and amount. Users can also add and delete expenses, the app saves data in local storage. I  enjoyed working on this app, and learnt about State, Props and Components. My favorite part was understanding state and being able to manipulate data anywhere, even outside the scope of a function. You can click on the image for the live version. ",
@@ -37,28 +59,6 @@
         {
           "type": "github",
           "url": "https://github.com/Ris345/Star-Wars-App-"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "Vanilla Javascript",
-      "title": "Calculator",
-      "description": "Calculator is a useful app to have around, I built this application with Javascript, HTML and CSS. Users can add, subtract, multiply and divide two or more numbers, it has a memory button that saves number temporarily M+ button increments and the M- decrements the number.I  enjoyed building this application -- I learnt about higher-order functions, conditional statements and event-listeners. As a programmer this project helped me develop my logical thinking and understand the use of debugger. My main takeaway from this project was learning to make things work, which as a developer is a crucial skill. You can click on the image for the live version. ",
-      "tags": ["JavaScript", "HTML", "CSS"],
-      "image": {
-        "src": "../../images/Calculator.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://ris345.github.io/calculator-app.github.io/"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/Ris345/calculator-app.github.io"
-        },
-        {
-          "type": "live",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
         }
       ]
     }
