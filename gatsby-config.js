@@ -10,7 +10,7 @@ module.exports = {
           shortName: "Welcome", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
           backgroundColor: "#FFFDD0", // Used in manifest.json
-          themeColor: "#000000", // Used in manifest.json
+          themeColor: "#CCCCCC", // Used in manifest.json
           display: "minimal-ui", // Used in manifest.json
         },
         contentDirectory: "./content",
